@@ -5,13 +5,6 @@ This project aims to predict the numbers that are published in each day regardin
 - [Requirements](#requirements)
 - [How to use](#how-to-use)
 - [How does it work](#how-does-it-work)
-- [Contact info](#contact-info)
-- [Adding models](#adding-models)
-- [Output examples](#output-examples)
-    * [Terminal output](#terminal-output)
-    * [Cases in each day graph](#cases-in-each-day-graph)
-    * [Deaths in each day graph](#deaths-in-each-day-graph)
-- [Predictions](#predictions)
 
 ## Requirements
 1. A machine with Python 3 installed.
